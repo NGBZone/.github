@@ -16,7 +16,7 @@ Organograma <a href="https://ngb.zone">NGB</a>
 <h3>Diretoria</h3>
 <ul>
     <li><strong>CTO | FOUNDER</strong>: Gabrieli Rizzo - Responsável pela direção técnica e inovação.</li>
-    <li><strong>Creative Director</strong>: Lucas Ponciano - Responsável pela direção técnica do setor de Design e inovação.</li>
+
 </ul>
 
 <h3>Desenvolvimento de Software</h3>
@@ -58,11 +58,4 @@ Organograma <a href="https://ngb.zone">NGB</a>
     <li><strong>Gerente de Suporte</strong>: A contratar - Responsável pelo suporte técnico.</li>
     <li><strong>Especialistas de Suporte Técnico</strong>: A contratar - Prestam suporte técnico aos clientes.</li>
     <li><strong>Analistas de Manutenção</strong>: A contratar - Realizam a manutenção dos sistemas.</li>
-</ul>
-
-<h3>Recursos Humanos</h3>
-<ul>
-    <li><strong>Gerente de RH</strong>: Talentx Digital - Responsável pela gestão de recursos humanos.</li>
-    <li><strong>Especialistas de Recrutamento</strong>: Talentx Digital - Recrutam novos talentos para a empresa.</li>
-    <li><strong>Especialistas de Treinamento e Desenvolvimento</strong>: Talentx Digital - Desenvolvem programas de treinamento.</li>
 </ul>
