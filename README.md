@@ -20,8 +20,7 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 
 <h3>Desenvolvimento de Software</h3>
 <ul>
-    <li><strong>Head de Desenvolvimento</strong>: Tito Couto - Coordena as atividades de desenvolvimento.</li>
-    <li><strong>Líderes de Equipe de Desenvolvimento</strong>: Tito Couto - Orientam as equipes de desenvolvimento.</li>
+    <li><strong>Líderes de Equipe de Desenvolvimento</strong>: Matheus Barriolo - Orientam as equipes de desenvolvimento.</li>
     <li><strong>Desenvolvedores</strong>: Codificam e mantêm o software.</li>
     <li><strong>Engenheiros de Software</strong>: Projetam e desenvolvem sistemas.</li>
 </ul>
@@ -35,14 +34,14 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 
 <h3>Gerenciamento de Projetos</h3>
 <ul>
-    <li><strong>Gerente de Projetos</strong>: Will Cassarro - Responsável pelo planejamento e execução de projetos.</li>
-    <li><strong>Squad Leaders</strong>: Bruno Leão e Wesley Souza - Coordenam equipes em projetos específicos.</li>
+    <li><strong>Gerente de Projetos</strong>: Barbara Sousa e Bruno Tavela - Responsável pelo planejamento e execução de projetos.</li>
+    <li><strong>Squad Leaders</strong>: Bruno Leão - Coordenam equipes em projetos específicos.</li>
     <li><strong>Analistas de Negócios e Financeiro</strong>: Murillo Chimento - Realizam análises e gerenciam aspectos financeiros.</li>
 </ul>
 
 <h3>Design e UX/UI</h3>
 <ul>
-    <li><strong>Gerente de Design</strong>: Lucas Ponciano - Lidera a equipe de design.</li>
+    <li><strong>Gerente de Design</strong>: Matheus Santana - Lidera a equipe de design.</li>
     <li><strong>Designers UX/UI</strong>: Modelo de contrato de Freelancer (atualmente) - Desenvolvem layouts e interfaces.</li>
 </ul>
 
@@ -62,13 +61,6 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 
 <h3>Marketing e Vendas</h3>
 <ul>
-    <li><strong>Head de Marketing</strong>: Eliézer Silva - Responsável pela estratégia de marketing.</li>
+    <li><strong>Head de Marketing</strong>: A contratar.</li>
     <li><strong>Especialistas de Marketing Digital e CM</strong>: Fah Bormann - Gerenciam campanhas de marketing digital.</li>
-</ul>
-
-<h3>Recursos Humanos</h3>
-<ul>
-    <li><strong>Gerente de RH</strong>: Talentx - Responsável pela gestão de recursos humanos.</li>
-    <li><strong>Especialistas de Recrutamento</strong>: Talentx - Recrutam novos talentos para a empresa.</li>
-    <li><strong>Especialistas de Treinamento e Desenvolvimento</strong>: Talentx - Desenvolvem programas de treinamento.</li>
 </ul>
