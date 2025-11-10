@@ -15,7 +15,6 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 
 <h3>Diretoria</h3>
 <ul>
-    <li><strong>CEO</strong>: Irina Bezzan - Responsável pela direção geral da empresa.</li>
     <li><strong>CTO</strong>: Gabrieli Rizzo - Responsável pela direção técnica e inovação.</li>
 </ul>
 
@@ -23,8 +22,8 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 <ul>
     <li><strong>Head de Desenvolvimento</strong>: Tito Couto - Coordena as atividades de desenvolvimento.</li>
     <li><strong>Líderes de Equipe de Desenvolvimento</strong>: Tito Couto - Orientam as equipes de desenvolvimento.</li>
-    <li><strong>Desenvolvedores</strong>: Modelo de contrato de Freelancer (atualmente) - Codificam e mantêm o software.</li>
-    <li><strong>Engenheiros de Software</strong>: Modelo de contrato de Freelancer (atualmente) - Projetam e desenvolvem sistemas.</li>
+    <li><strong>Desenvolvedores</strong>: Codificam e mantêm o software.</li>
+    <li><strong>Engenheiros de Software</strong>: Projetam e desenvolvem sistemas.</li>
 </ul>
 
 <h3>Qualidade e Testes</h3>
